@@ -75,6 +75,7 @@
 .facebook .actionBgPane {
   background: #3b5998;
 }
+
 .facebook:hover {
   border-color: #3b5998;
 }
@@ -82,6 +83,7 @@
 .twitter .actionBgPane {
   background: #2795e9;
 }
+
 .twitter:hover {
   border-color: #2795e9;
 }
@@ -89,13 +91,23 @@
 .linkedin .actionBgPane {
   background: #0077b5;
 }
+
 .linkedin:hover {
   border-color: #0077b5;
+}
+
+.instagram .actionBgPane {
+  background: #f42ce0;
+}
+
+.instagram:hover {
+  border-color: #f42ce0;
 }
 
 .github .actionBgPane {
   background: #c9510c;
 }
+
 .github:hover {
   border-color: #c9510c;
 }
@@ -103,6 +115,7 @@
 .medium .actionBgPane {
   background: #00ab6c;
 }
+
 .medium:hover {
   border-color: #00ab6c;
 }
@@ -110,6 +123,7 @@
 .email .actionBgPane {
   background: #777;
 }
+
 .email:hover {
   border-color: #777;
 }
