@@ -105,6 +105,10 @@
   color: #0077b5;
 }
 
+.instagram:hover {
+  color: #f228f2;
+}
+
 .comments {
   width: 100%;
   margin-top: 2em;
@@ -116,16 +120,18 @@
     flex-direction: column;
   }
 
-  .footer > div {
+  .footer>div {
     margin-top: 1em;
   }
 
   .footer .settings {
     order: 1;
   }
+
   .footer .social {
     order: 2;
   }
+
   .footer .copyright {
     order: 3;
   }
@@ -178,14 +184,17 @@
 }
 
 @keyframes octocat-wave {
+
   0%,
   100% {
     transform: rotate(0);
   }
+
   20%,
   60% {
     transform: rotate(-25deg);
   }
+
   40%,
   80% {
     transform: rotate(10deg);

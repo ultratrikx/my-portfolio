@@ -17,9 +17,10 @@ export default siteConfig({
   description: 'null',
 
   // social usernames (optional)
-  twitter: '',
+  twitter: 'ultratrikx',
   github: 'ultratrikx',
   linkedin: '',
+  instagram: 'rohanht',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
