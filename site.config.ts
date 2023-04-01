@@ -20,7 +20,7 @@ export default siteConfig({
   twitter: 'ultratrikx',
   github: 'ultratrikx',
   linkedin: '',
-  instagram: 'rohanht',
+  instagram: 'rohanht_',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
